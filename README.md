@@ -1,2 +1,4 @@
 # Svarog
-My diploma work source code
+My diploma work source code.
+
+#TBD
